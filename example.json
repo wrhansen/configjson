@@ -1,0 +1,5 @@
+{
+	# This is a commented line in a config file read by configjson
+	"some-key": "Some String",
+	"another-key": "Yet another string", # This is an in-line comment
+}
