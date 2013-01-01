@@ -17,7 +17,7 @@ The config file
 	also include comment lines (lines that start with `#`) as well as any in-line
 	comments (in-line comment starts at `#`). Here's an example:
 	
-		.. code python:
+		::
 			
 			{
 				# This is a commented line in a config file read by configjson
@@ -33,7 +33,7 @@ How to use configjson
 	Let's say the above example was created in a file *example.json*. To read this
 	config file to a string:
 	
-		.. code python:
+		::
 			
 			
 			import configjson
@@ -47,7 +47,7 @@ How to use configjson
 	
 	To read this config file to a python object:
 	
-		.. code:
+		::
 		
 		
 			import configjson
