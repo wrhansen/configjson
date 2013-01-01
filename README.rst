@@ -47,7 +47,7 @@ How to use configjson
 	
 	To read this config file to a python object:
 	
-		.. code python:
+		.. code:
 		
 		
 			import configjson
